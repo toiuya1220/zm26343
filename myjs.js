@@ -3,4 +3,7 @@
 <head>
 <meta charset="UTF-8">
   </head>
-alert('Hello, touya!');
+<body>
+  alert('Hello, touya!');
+</body>
+  </html>
