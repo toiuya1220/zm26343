@@ -5,5 +5,6 @@
   </head>
 <body>
   alert('Hello, touya!');
+ alert(1+1);
 </body>
   </html>
